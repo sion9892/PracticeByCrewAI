@@ -4,13 +4,6 @@
 <br>
 
 <div>
-<h3>참고 레퍼런스</h3>
-: 노마드코더 https://www.youtube.com/watch?v=-59bKxwir5Q&t=301s <br>
-이 영상을 보고 클린 코딩함. <br>
-그외 crewAI 공식문서, 구글링 등 <br>
-</div>
-
-<div>
 <h3>목표</h3>
 : 어떤 종목에 대한 buy/sell/hold와 그 근거가 담긴 보고서
 </div>
@@ -32,6 +25,13 @@
    For Financial Analyst : insider_transactions, income_stmt, balence_sheet  <br>
    For Hedge fund manger : Nothing  <br>
 <br>
+</div>
+
+<div>
+<h3>참고 레퍼런스</h3>
+: 노마드코더 https://www.youtube.com/watch?v=-59bKxwir5Q&t=301s <br>
+이 영상을 보고 클린 코딩함. <br>
+그외 crewAI 공식문서, 구글링 등 <br>
 </div>
 
 
