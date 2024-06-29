@@ -1,0 +1,4 @@
+crewai
+crewai_tools
+yfinance
+python-dotenv
